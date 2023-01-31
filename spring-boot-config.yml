@@ -1,1 +1,1 @@
-my.greeting: Updated Hello World from config server using microservice specific file
+my.greeting: Newly updated greeting from spring-boot-config microservice specific file
