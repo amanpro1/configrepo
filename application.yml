@@ -1,0 +1,12 @@
+my:
+  greeting: Hello World from config server git
+  list:
+    values: One,Two,Three,Four
+
+dbValues: "{connectionString: 'http://__', userName: 'foo', password: 'pass'}"
+
+db:
+  connection: connection-string-here-for-config-server-git
+  host: 127.0.0.1
+  port: 1200
+
